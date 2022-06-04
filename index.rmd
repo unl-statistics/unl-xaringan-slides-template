@@ -139,7 +139,7 @@ class:primary
 # Include columns
 
 .pull-left[
-**Bold text**
+**Bold text** 
 ].pull-right[
 *Italic text*
 ]
