@@ -1,6 +1,6 @@
 # University of Nebraska - Lincoln xaringan Slides Template
 
-See slide template html [here]().
+See slide template html [here](https://unl-statistics.github.io/unl-xaringan-slides-template/#1).
 
 **To use**
 1. Install `xaringan` package in R.
@@ -11,5 +11,5 @@ See slide template html [here]().
 
 **Resources**
 
-+ [xaringan Presentaitons](https://bookdown.org/yihui/rmarkdown/xaringan.html).
++ [xaringan Presentations](https://bookdown.org/yihui/rmarkdown/xaringan.html).
 + See Emily Robinson's (creator) defenses slides with template: [slides](https://earobinson95.github.io/presentations/Dissertation/2022-06-16-final-defense/index.html#1); [code](https://github.com/earobinson95/presentations/blob/master/Dissertation/2022-06-16-final-defense/index.html).
